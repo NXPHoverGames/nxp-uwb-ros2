@@ -1,0 +1,2 @@
+# Copyright 2025 NXP
+KERNEL=="sr1xx", OWNER="root", GROUP="plugdev"

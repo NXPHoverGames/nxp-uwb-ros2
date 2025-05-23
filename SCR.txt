@@ -1,0 +1,11 @@
+NXP Software Content Register
+
+Package:                    nxp-uwb-ros2
+Version:                    1.0
+Outgoing License:           Apache-2.0
+License File:               LICENSE
+Description:                NXP SR1XX ROS2 Driver
+Release location:           https://github.com/nxphovergames/nxp-uwb-ros2
+Origin:                     NXP (Apache-2.0)
+                            Pica (Apache-2.0) - https://github.com/google/pica/blob/main/LICENSE
+                            Pdl (Apache-2.0) - https://github.com/google/pdl/blob/main/LICENSE

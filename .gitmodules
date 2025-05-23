@@ -1,0 +1,6 @@
+[submodule "pdl"]
+	path = pdl
+	url = https://github.com/google/pdl
+[submodule "pica"]
+	path = pica
+	url = https://github.com/google/pica
